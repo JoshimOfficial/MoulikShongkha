@@ -50,3 +50,14 @@ button.addEventListener("click", ()=>{
     getUser_inputEmpty.value = "";
 
 })
+
+
+
+
+
+
+                                                     // Note //
+
+
+//Prime number selector only works  11 - ∞  numbers.//
+//Prime number selector will not work if you enter  some number between 0-10 .//
