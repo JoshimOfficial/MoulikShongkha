@@ -1,0 +1,33 @@
+body {
+    background-color: teal;
+}
+
+.main {
+    border: 1px solid;
+    height: 450px;
+}
+
+.user_input{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+
+}
+
+.container{
+    margin: auto;
+    margin-top: 10px;
+    width: 400px;
+    height: 350px;
+    border: 1px solid;
+}
+
+
+.not_integer{
+    opacity: 0;
+}
+
+.integer{
+     opacity: 0;
+}
